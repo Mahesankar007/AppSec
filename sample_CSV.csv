@@ -1,0 +1,21 @@
+S.No,Scope,Group,Reported Date,Application name,Total Critical,Total High,Total Medium,Total Low,Open Critical,Open High,Open Medium,Open Low,Closed Critical,Closed High,Closed Medium,Closed Low
+1,DAST,abc,1-Jan-24,aaa,0,0,9,17,0,0,6,11,0,0,3,6
+2,Red Team,cdf,3-Dec-23,bbb,3,6,8,14,2,3,6,10,1,3,2,4
+3,BlackBox,efg,10-Apr-23,ccc,0,8,6,11,0,4,3,5,0,4,3,6
+4,Red Team,hij,1-Jan-24,jjkmk,3,7,13,14,0,5,8,4,3,2,5,10
+5,Red Team,efg,3-Dec-23,x,0,7,10,11,0,3,5,9,0,4,5,2
+6,DAST,efg,9-Apr-23,sdsd,4,4,8,13,0,2,6,8,4,2,2,5
+7,DAST,efg,1-Jan-24,dsdsfe,5,9,14,10,3,6,9,7,2,3,5,3
+8,DAST,efg,3-Dec-23,efdfd,1,4,7,21,1,1,6,9,0,3,1,12
+9,DAST,abc,10-Apr-23,frf,9,9,9,6,5,6,4,3,4,3,5,3
+10,DAST,abc,15-Jan-24,xs,3,12,6,4,1,7,0,2,2,5,6,2
+11,DAST,abc,3-Nov-23,sdsds,1,2,11,14,0,0,8,12,1,2,3,2
+12,BlackBox,abc,10-Apr-23,drttt,0,3,2,15,0,0,0,11,0,3,2,4
+13,Red Team,abc,1-Jan-24,zaaa,4,6,9,16,3,0,4,14,1,6,5,2
+14,Red Team,abc,3-Dec-23,xss,0,7,4,19,0,0,0,7,0,7,4,12
+15,BlackBox,hij,9-May-23,hjyuyu,3,5,4,12,0,4,3,9,3,1,1,3
+16,BlackBox,hij,1-Jul-24,xxcv,2,12,2,11,0,5,2,6,2,7,0,5
+17,BlackBox,cdf,3-Dec-23,sdsfdgt,0,2,5,6,0,0,0,5,0,2,5,1
+18,BlackBox,cdf,10-Aug-23,hnnujuu,1,9,7,7,0,0,1,3,1,9,6,4
+19,BlackBox,cdf,3-Nov-23,xxs,3,4,2,22,2,3,2,14,1,1,0,8
+20,BlackBox,hij,10-Jun-23,xxsdwdew,3,4,4,20,2,2,1,11,1,2,3,9
