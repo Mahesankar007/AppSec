@@ -1,0 +1,43 @@
+S.No,Scope,Group,Year,Reported Date,Reported Age,IP Address,Application name,Total Critical,Total High,Total Medium,Total Low,Open Critical,Open High,Open Medium,Open Low,Closed Critical,Closed High,Closed Medium,Closed Low,Status
+1,DAST,abc,FY 23-24,1-Jan-24,31,10.20.30.0,aaa,0,0,9,17,0,0,6,11,0,0,3,6,Open
+2,Red Team,cdf,FY 22-23,3-Dec-23,60,10.20.30.5,bbb,3,6,8,14,2,3,6,10,1,3,2,4,Closed
+3,BlackBox,efg,FY 21-22,10-Apr-23,297,10.20.30.0,ccc,0,8,6,11,0,4,3,5,0,4,3,6,Open
+4,Red Team,hij,FY 23-24,1-Jan-24,31,10.20.30.2,jjkmk,3,7,13,14,0,5,8,4,3,2,5,10,Closed
+5,Red Team,efg,FY 22-23,3-Dec-23,60,10.20.30.0,x,0,7,10,11,0,3,5,9,0,4,5,2,Open
+6,DAST,efg,FY 22-23,9-Apr-23,298,10.20.30.2,sdsd,4,4,8,13,0,2,6,8,4,2,2,5,Closed
+7,DAST,efg,FY 22-23,1-Jan-24,31,10.20.30.0,dsdsfe,5,9,14,10,3,6,9,7,2,3,5,3,Closed
+8,DAST,efg,FY 21-22,3-Dec-23,60,10.20.30.5,efdfd,1,4,7,21,1,1,6,9,0,3,1,12,Open
+9,DAST,abc,FY 21-22,10-Apr-23,297,10.20.30.5,frf,9,9,9,6,5,6,4,3,4,3,5,3,Open
+10,DAST,abc,FY 23-24,15-Jan-24,17,10.20.30.5,xs,3,12,6,4,1,7,0,2,2,5,6,2,Open
+11,DAST,abc,FY 23-24,3-Nov-23,90,10.20.30.2,sdsds,1,2,11,14,0,0,8,12,1,2,3,2,Open
+12,BlackBox,abc,FY 23-24,10-Apr-23,297,10.20.30.2,drttt,0,3,2,15,0,0,0,11,0,3,2,4,Closed
+13,Red Team,abc,FY 23-24,1-Jan-24,31,10.20.30.0,zaaa,4,6,9,16,3,0,4,14,1,6,5,2,Closed
+14,Red Team,abc,FY 21-22,3-Dec-23,60,10.20.30.0,xss,0,7,4,19,0,0,0,7,0,7,4,12,Open
+15,BlackBox,hij,FY 22-23,9-May-23,268,10.20.30.5,hjyuyu,3,5,4,12,0,4,3,9,3,1,1,3,Closed
+16,BlackBox,hij,FY 22-23,10-Jan-24,22,10.20.30.5,xxcv,2,12,2,11,0,5,2,6,2,7,0,5,Closed
+17,BlackBox,cdf,FY 23-24,3-Dec-23,60,10.20.30.5,sdsfdgt,0,2,5,6,0,0,0,5,0,2,5,1,Open
+18,BlackBox,cdf,FY 21-22,10-Aug-23,175,10.20.30.2,hnnujuu,1,9,7,7,0,0,1,3,1,9,6,4,Open
+19,BlackBox,cdf,FY 22-23,3-Nov-23,90,10.20.30.2,xxs,3,4,2,22,2,3,2,14,1,1,0,8,Open
+20,BlackBox,hij,FY 22-23,10-Jun-23,236,10.20.30.2,xxsdwdew,3,4,4,20,2,2,1,11,1,2,3,9,Open
+21,DAST,abc,FY 23-24,15-Jan-24,17,10.20.30.5,hhd,3,12,6,4,1,7,0,2,2,5,6,2,Open
+22,DAST,abc,FY 23-24,3-Nov-23,90,10.20.30.2,dfvv,1,2,11,14,0,0,8,12,1,2,3,2,Open
+23,BlackBox,abc,FY 23-24,10-Apr-23,297,10.20.30.2,fftj,0,3,2,15,0,0,0,11,0,3,2,4,Closed
+24,Red Team,abc,FY 23-24,1-Jan-24,31,10.20.30.0,xssjk,4,6,9,16,3,0,4,14,1,6,5,2,Closed
+25,Red Team,abc,FY 21-22,3-Dec-23,60,10.20.30.0,kkm,0,7,4,19,0,0,0,7,0,7,4,12,Open
+26,BlackBox,hij,FY 22-23,9-May-23,268,10.20.30.5,gd,3,5,4,12,0,4,3,9,3,1,1,3,Closed
+27,BlackBox,hij,FY 22-23,22-Jan-24,9,10.20.30.5,ddd,2,12,2,11,0,5,2,6,2,7,0,5,Closed
+28,DAST,abc,FY 23-24,15-Jan-24,17,10.20.30.5,jkjhv,3,12,6,4,1,7,0,2,2,5,6,2,Open
+29,DAST,abc,FY 23-24,3-Nov-23,90,10.20.30.2,xsxsd,1,2,11,14,0,0,8,12,1,2,3,2,Open
+30,BlackBox,abc,FY 23-24,10-Apr-23,297,10.20.30.2,vvn,0,3,2,15,0,0,0,11,0,3,2,4,Closed
+31,Red Team,abc,FY 23-24,1-Jan-24,31,10.20.30.0,ddfgh,4,6,9,16,3,0,4,14,1,6,5,2,Closed
+32,Red Team,abc,FY 21-22,3-Dec-23,60,10.20.30.0,cvvnk,0,7,4,19,0,0,0,7,0,7,4,12,Open
+33,BlackBox,hij,FY 22-23,9-May-23,268,10.20.30.5,ssdff,3,5,4,12,0,4,3,9,3,1,1,3,Closed
+34,BlackBox,hij,FY 22-23,10-Jan-24,21,10.20.30.5,zsddsd,2,12,2,11,0,5,2,6,2,7,0,5,Closed
+35,Red Team,cdf,FY 22-23,3-Dec-23,60,10.20.30.5,hjkkmn,3,6,8,14,2,3,6,10,1,3,2,4,Closed
+36,BlackBox,efg,FY 21-22,10-Apr-23,297,10.20.30.0,ccsaas,0,8,6,11,0,4,3,5,0,4,3,6,Open
+37,Red Team,hij,FY 23-24,1-Jan-24,31,10.20.30.2,grreutky,3,7,13,14,0,5,8,4,3,2,5,10,Closed
+38,Red Team,efg,FY 22-23,3-Dec-23,60,10.20.30.0,csdadf,0,7,10,11,0,3,5,9,0,4,5,2,Open
+39,DAST,efg,FY 22-23,9-Apr-23,298,10.20.30.2,mjyy,4,4,8,13,0,2,6,8,4,2,2,5,Closed
+40,DAST,efg,FY 22-23,1-Jan-24,31,10.20.30.0,asdde,5,9,14,10,3,6,9,7,2,3,5,3,Closed
+41,DAST,efg,FY 21-22,3-Dec-23,60,10.20.30.5,vdeeerk,1,4,7,21,1,1,6,9,0,3,1,12,Open
+42,DAST,abc,FY 21-22,10-Apr-23,297,10.20.30.5,cdskm,9,9,9,6,5,6,4,3,4,3,5,3,Open
